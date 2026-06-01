@@ -1,5 +1,7 @@
 # --- Atari 8-bit Build Artifacts ---
 *.xex
+!bin/
+!bin/*.xex
 *.obx
 
 # --- OS/Editor Temporary Files ---
