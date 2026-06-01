@@ -14,3 +14,4 @@ temp/
 # --- Excluded Toolchains and Agent files ---
 mads/
 .agents/
+game_arch.md
