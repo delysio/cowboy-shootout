@@ -8,3 +8,7 @@ Thumbs.db
 *.bak
 *.tmp
 temp/
+
+# --- Excluded Toolchains and Agent files ---
+mads/
+.agents/
