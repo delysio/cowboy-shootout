@@ -1,0 +1,10 @@
+# --- Atari 8-bit Build Artifacts ---
+*.xex
+*.obx
+
+# --- OS/Editor Temporary Files ---
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+temp/
